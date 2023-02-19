@@ -52,7 +52,7 @@ namespace GeocodingApi.Controllers
             }
             catch (Exception ex)
             {
-                logger.LogError(ex.ToString());
+                logger.LogCritical(ex, "Failed to get Geocoding data");
                 return BadRequest();
             }
         }
@@ -68,7 +68,7 @@ namespace GeocodingApi.Controllers
             }
             catch (Exception ex)
             {
-                logger.LogError(ex.ToString());
+                logger.LogCritical(ex, "Failed to get Geocoding data");
                 return BadRequest();
             }
         }
