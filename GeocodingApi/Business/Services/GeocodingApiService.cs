@@ -15,7 +15,7 @@ namespace Business.Services
         private readonly ILogger logger;
         private readonly IMemcachedClient memCache;
         private readonly HttpClient client;
-        private readonly string googleKey = "AIzaSyDjwaDbUCconUi74AyiI_57SHZnk7ZMqKg";
+        private readonly string googleKey = "secret_key";
         public GeocodingApiService(IHttpClientFactory clientFactory, ILogger<GeocodingApiService> _logger, IMemcachedClient _memCache)
         {
             client = clientFactory.CreateClient("GeocodingApi");
