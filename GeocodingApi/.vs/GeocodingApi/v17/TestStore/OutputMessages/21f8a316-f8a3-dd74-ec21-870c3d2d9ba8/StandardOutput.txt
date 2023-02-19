@@ -1,0 +1,125 @@
+info: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Memcached server address - 127.0.0.1:11211
+info: Business.Services.GeocodingApiService[0]
+      Initialization
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Create PooledSocket
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to put PooledSocket 0 in Pool
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+         at Enyim.Caching.Memcached.Protocol.Binary.BinaryNode.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.InitPool()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Create PooledSocket
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to put PooledSocket 1 in Pool
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+         at Enyim.Caching.Memcached.Protocol.Binary.BinaryNode.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.InitPool()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Create PooledSocket
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to put PooledSocket 2 in Pool
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+         at Enyim.Caching.Memcached.Protocol.Binary.BinaryNode.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.InitPool()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Create PooledSocket
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to put PooledSocket 3 in Pool
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+         at Enyim.Caching.Memcached.Protocol.Binary.BinaryNode.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.InitPool()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Create PooledSocket
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to put PooledSocket 4 in Pool
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+         at Enyim.Caching.Memcached.Protocol.Binary.BinaryNode.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.CreateSocket()
+         at Enyim.Caching.Memcached.MemcachedNode.InternalPoolImpl.InitPool()
+info: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      MemcachedInitPool-cost: 10212.6074ms
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Create PooledSocket
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to create socket. 127.0.0.1:11211
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to create socket. 127.0.0.1:11211
+info: Business.Services.GeocodingApiService[0]
+      Try to get Geocoding data from the Google Api
+info: System.Net.Http.HttpClient.GeocodingApi.LogicalHandler[100]
+      Start processing HTTP request GET https://maps.googleapis.com/maps/api/geocode/json?latlng=50.44975,30.525293&key=AIzaSyDjwaDbUCconUi74AyiI_57SHZnk7ZMqKg
+info: System.Net.Http.HttpClient.GeocodingApi.ClientHandler[100]
+      Sending HTTP request GET https://maps.googleapis.com/maps/api/geocode/json?latlng=50.44975,30.525293&key=AIzaSyDjwaDbUCconUi74AyiI_57SHZnk7ZMqKg
+info: System.Net.Http.HttpClient.GeocodingApi.ClientHandler[101]
+      Received HTTP response after 177.5272ms - OK
+info: System.Net.Http.HttpClient.GeocodingApi.LogicalHandler[101]
+      End processing HTTP request after 177.7591ms - OK
+info: Business.Services.GeocodingApiService[0]
+      Geocoding data is taken from the Google Api
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Create PooledSocket
+      System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:11211
+         at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+         at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+         at Enyim.Caching.Memcached.PooledSocket.Connect()
+         at Enyim.Caching.Memcached.MemcachedNode.CreateSocket()
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to create socket. 127.0.0.1:11211
+fail: Enyim.Caching.Configuration.MemcachedClientConfiguration[0]
+      Failed to create socket. 127.0.0.1:11211

@@ -1,0 +1,10 @@
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\GitProjects\GeocodingApi\GeocodingApi\Business\obj\Debug\netcoreapp3.1\Business.pdb
